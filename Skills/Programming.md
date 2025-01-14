@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
-  - Class
-  - Prototype
+  - Class k
+  - Prototype k
   - Event
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -85,7 +85,7 @@
   - Argument
   - Parameter
   - Pure function
-  - Lambda expression
+  - Lambda expression u
   - Side effects
   - Closure
   - Partial application
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github u
   - Docker
   - Kubernetes
   - GCC

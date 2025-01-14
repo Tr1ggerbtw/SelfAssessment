@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
   - `Boolean`u
-  - `Number` u
+  - `Number`: 🖐️ used
   - `BigInt`k
   - `String`u
   - `Symbol`u
@@ -13,13 +13,13 @@
   - `undefined`k
   - `null`h
   - `this`h
-  - `instanceof` h
-  - `...spread` h
-  - `...rest` u
-  - `typeof` u
+  - `instanceof`: 👂 heard
+  - `...spread`: 👂 heard
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
-  - Iterators u
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -31,21 +31,21 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype` k
+  - `prototype`: 🎓 known
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void` k
+  - `void`: 🎓 known
   - `yield`
-  - `await` k
+  - `await`: 🎓 known
   - Template literal
-  - Strict mode u
-  - Hoisting u
-  - `delete` k
-  - `in` u
-  - `super` k
+  - Strict mode: 🖐️ used
+  - Hoisting: 🖐️ used
+  - `delete`: 🎓 known
+  - `in`: 🖐️ used
+  - `super`: 🎓 known
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
   - `do..while`
-  - `for` u
+  - `for`: 🖐️ used
   - `for..in`u
   - `for..of`
   - `for await`
   - `throw`
-  - `break` k
+  - `break`: 🎓 known
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch` k
-  - `class` k
-  - `extends` k
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
   - `with`
-  - `new` k
+  - `new`: 🎓 known
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
   - Function declaration
   - Function expression
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` u
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js u
-  - npm u
-  - prettier u
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

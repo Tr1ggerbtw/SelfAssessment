@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types c
+  - Data types: 🚀 constructed
   - Performance tuning
   - Migrations
   - Schema versioning

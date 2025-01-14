@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
   - Literal
   - Expression
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
   - Method
-  - Class k
-  - Prototype k
+  - Class: 🎓 known
+  - Prototype: 🎓 known
   - Event
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops u
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case k
-  - Kebab case k
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
@@ -85,7 +85,7 @@
   - Argument
   - Parameter
   - Pure function
-  - Lambda expression u
+  - Lambda expression: 🖐️ used
   - Side effects
   - Closure
   - Partial application
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator u
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github u
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC

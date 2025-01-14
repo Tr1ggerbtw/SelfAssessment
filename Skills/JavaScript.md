@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object` u
+  - `Function` u
+  - `Boolean`u
+  - `Number` u
+  - `BigInt`k
+  - `String`u
+  - `Symbol`u
+  - `Infinity`k
+  - `NaN`k
+  - `undefined`k
+  - `null`h
+  - `this`h
+  - `instanceof` h
+  - `...spread` h
+  - `...rest` u
+  - `typeof` u
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators u
   - Async generator
   - Async iterator
   - Chaining
@@ -31,21 +31,21 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype` k
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void` k
   - `yield`
-  - `await`
+  - `await` k
   - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - Strict mode u
+  - Hoisting u
+  - `delete` k
+  - `in` u
+  - `super` k
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if` u
+  - `while` u
   - `do..while`
-  - `for`
-  - `for..in`
+  - `for` u
+  - `for..in`u
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
+  - `break` k
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `switch` k
+  - `class` k
+  - `extends` k
   - `with`
-  - `new`
+  - `new` k
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
   - Function declaration
   - Function expression
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` u
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js u
+  - npm u
+  - prettier u
   - MDN
   - TC39

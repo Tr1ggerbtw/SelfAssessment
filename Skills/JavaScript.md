@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`u
+  - `Number`: 🖐️ used
+  - `BigInt`k
+  - `String`u
+  - `Symbol`u
+  - `Infinity`k
+  - `NaN`k
+  - `undefined`k
+  - `null`h
+  - `this`h
+  - `instanceof`: 👂 heard
+  - `...spread`: 👂 heard
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -31,21 +31,21 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype`: 🎓 known
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void`: 🎓 known
   - `yield`
-  - `await`
+  - `await`: 🎓 known
   - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - Strict mode: 🖐️ used
+  - Hoisting: 🖐️ used
+  - `delete`: 🎓 known
+  - `in`: 🖐️ used
+  - `super`: 🎓 known
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
   - `do..while`
-  - `for`
-  - `for..in`
+  - `for`: 🖐️ used
+  - `for..in`u
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
+  - `break`: 🎓 known
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
   - `with`
-  - `new`
+  - `new`: 🎓 known
 - Functions
-  - Arrow function
+  - Arrow function: 🖐️ used
   - Async function
   - Function declaration
   - Function expression
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

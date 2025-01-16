@@ -16,17 +16,17 @@
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
-  - Platform-agnostic
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
-  - Framework-agnostic
+  - Framework-agnostic: 👂 heard
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability: 🖐️ used
   - Quality
-  - Availability
-  - Flexibility
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer

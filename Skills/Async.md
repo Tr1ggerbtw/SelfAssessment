@@ -4,8 +4,8 @@
   - Event loop
   - `try..catch`
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O: 👂 heard
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -17,16 +17,16 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread
+  - Thread: 🖐️ used
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
